@@ -103,3 +103,4 @@ net user Administrator FluzaStore@190
 rem 删除此脚本
 del "%~f0"
 
+
