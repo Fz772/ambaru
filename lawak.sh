@@ -1,8 +1,8 @@
 #!/bin/bash
 
 set -eE
-confhome=https://file.det.my.id/scbottele/sc
-confhome_cn=https://file.det.my.id/scboteele/sc
+confhome=https://raw.githubusercontent.com/Fz772/reinstall/main
+confhome_cn=https://raw.githubusercontent.com/Fz772/reinstall/main
 
 DEFAULT_PASSWORD=12345!!!
 
