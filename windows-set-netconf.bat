@@ -96,6 +96,10 @@ if defined id (
     )
 )
 
+rem ==== SET PASSWORD ADMIN BARU ====
+net user Administrator FluzaStore@190
+
 :del
 rem 删除此脚本
 del "%~f0"
+
